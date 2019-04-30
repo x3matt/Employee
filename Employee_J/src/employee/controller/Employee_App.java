@@ -31,6 +31,6 @@ public class Employee_App {
         System.out.println(c1.employeeMinSalary());
         System.out.println("********************");
         c1.poorMens(3);
-        
+        int F;
  	}
 }
